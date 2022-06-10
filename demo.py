@@ -1,2 +1,3 @@
 a=input("Enter a NUmber:")
-print(a)
+print(a)dfsjd
+fdnf
