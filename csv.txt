@@ -1,0 +1,17 @@
+suresh,17,male
+subbu,17,male
+akhil,18,female
+1
+2
+3
+
+3
+4
+4
+5
+
+56
+66
+654
+45
+563w45

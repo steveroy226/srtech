@@ -1,0 +1,2 @@
+Enter the number:even
+Enter a NUmber:5
